@@ -11,9 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ActionDelegate", "03.Act
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Middleware", "04.Middleware\04.Middleware.csproj", "{5A39B274-9A6B-4ECD-A54D-7D9F8CA75322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RouteData", "05.RouteData\05.RouteData.csproj", "{33CFD47D-AE04-4742-B63A-B859D3B23EE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.RouteData", "05.RouteData\05.RouteData.csproj", "{33CFD47D-AE04-4742-B63A-B859D3B23EE4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.PredicateDelegate", "06.PredicateDelegate\06.PredicateDelegate.csproj", "{A26F9AEB-4B53-4027-A1F7-2BD6B0FBC308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FuncDelegate", "07.FuncDelegate\07.FuncDelegate.csproj", "{D57A0B19-EC99-4C2E-B1DB-41BB563FF01D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A26F9AEB-4B53-4027-A1F7-2BD6B0FBC308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A26F9AEB-4B53-4027-A1F7-2BD6B0FBC308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A26F9AEB-4B53-4027-A1F7-2BD6B0FBC308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57A0B19-EC99-4C2E-B1DB-41BB563FF01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57A0B19-EC99-4C2E-B1DB-41BB563FF01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57A0B19-EC99-4C2E-B1DB-41BB563FF01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57A0B19-EC99-4C2E-B1DB-41BB563FF01D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
