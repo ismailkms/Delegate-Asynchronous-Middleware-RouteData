@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Asynchronous", "02.Async
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ActionDelegate", "03.ActionDelegate\03.ActionDelegate.csproj", "{5571B2D6-7BFC-4019-BCFD-705B0A0828FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Middleware", "04.Middleware\04.Middleware.csproj", "{5A39B274-9A6B-4ECD-A54D-7D9F8CA75322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Middleware", "04.Middleware\04.Middleware.csproj", "{5A39B274-9A6B-4ECD-A54D-7D9F8CA75322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RouteData", "05.RouteData\05.RouteData.csproj", "{33CFD47D-AE04-4742-B63A-B859D3B23EE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5A39B274-9A6B-4ECD-A54D-7D9F8CA75322}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A39B274-9A6B-4ECD-A54D-7D9F8CA75322}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A39B274-9A6B-4ECD-A54D-7D9F8CA75322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CFD47D-AE04-4742-B63A-B859D3B23EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CFD47D-AE04-4742-B63A-B859D3B23EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CFD47D-AE04-4742-B63A-B859D3B23EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CFD47D-AE04-4742-B63A-B859D3B23EE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
